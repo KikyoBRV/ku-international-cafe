@@ -1,6 +1,29 @@
 ## Menu
+[Japanese Food](#japanese-food) | [Seafood Menu](#seafood-menu) | [Thai Food](#thai-food) |[Chinese Food](#Chinese-Food)| [Beverages](#beverages)
 
-[Seafood Menu](#seafood-menu) | ... | [Beverages](#beverages)
+
+
+## Chinese Food
+
+| Name               | Description                                          |                                                   | Price     |
+|:-------------------|:-----------------------------------------------------|---------------------------------------------------|----------:|
+| Mapo Tofu          | It comes to spicy and spice lovers alike             |![Mapo Tofu](images/Mapo-Tofu.jpg)                 |   100 THB |
+| Peking Roast Duck  | A common delicacy enjoyed in Beijing                 |![Peking Roast Duck](images/Peking-Roast-Duck.jpg) |   300 THB |
+| Wonton Soup        | Are a type of dumpling draped in egg yolk wrappings  |![Wonton Soup](images/Wonton-Soup.jpg)             |    89 THB |
+| Spring Rolls       | Spring rolls are the perfect side dish               |![Spring Rolls](images/Spring-Rolls.jpg)           |    59 THB |
+| Chinese Hot Pot    | Also known as a steamboat                            |![Chinese Hot Pot](images/Chinese-Hot-Pot.jpg)     |   599  THB|
+
+
+## Japanese Food
+
+| Name         | Description                 |                                        |   Price |
+|:-------------|:----------------------------|----------------------------------------|--------:|
+| Miso Soup    | Savoury soup with tofu and seaweed.| ![miso-soup](images/miso-soup.png)     |  40 THB |
+| Okonomiyaki  | Grilled savoury pancake with mix-ins| ![okonomiyaki](images/okonomiyaki.png) |  70 THB  |
+ | Curry Rice   | Mildly sweet curry over rice.| ![curry-rice](images/curry-rice.png)   |  80 THB  |
+| Takoyaki     |Octopus-filled savoury balls. | ![takoyoki](images/takoyaki.png)       |  50 THB  |
+| Sushi | Vinegared rice with tasty toppings.| ![sushi](images/sushi.png)             | 140 THB  |
+
 
 ## Seafood Menu
 
@@ -14,8 +37,22 @@
 
 
 
+## Thai Food
+
+| Name         | Description                                                   |                                          |   Price |
+|:-------------|:--------------------------------------------------------------|------------------------------------------|--------:|
+| Fried Rice   | Rice fried with vegetables                                    | ![Fried-Rice](images/Fried-Rice.jpg)     |  99 THB |
+| Pad Thai     | Stir-fried noodles                                            | ![Pad Thai](images/pad-thai.jpg)         |  79 THB |
+| Papaya Salad | Shredded green papaya with tomatoes, green beans, and peanuts | ![Papaya Salad](images/Papaya-Salad.jpg) |  99 THB |
+| Tom Yum      | Spicy and sour soup                                           | ![Tom Yum](images/Tom-Yum.jpg)           | 139 THB |
+| Tom Kha      | Coconut soup with galangal, lemongrass                        | ![Tom Kha](images/Tom-Kha.jpg)           |  89 THB |
+
 ## Beverages
 
-| Name | Description     |                             |  Price |
-|:-----|:----------------|-----------------------------|-------:|
-| Coke               | Coca-cola Brand | ![Coke](images/sf_bev1.png) | 25 THB |        |
+| Name        | Description                                   |                                |   Price |
+|:------------|:----------------------------------------------|--------------------------------|--------:|
+| Amazake     | Japanese beverage made from rice and rice koji| ![amazake](images/amazake.png) |  40 THB  |
+| Coke               | Coca-cola Brand | ![Coke](images/sf_bev1.png) | 25 THB |        
+| Thai Tea | Sweetened iced tea | ![Thai Tea](images/Thai-Tea.jpeg) | 55 THB |
+| Tieguanyin         | Tieguanyin falls between black and green tea         | ![Tieguanyin](images/Tieguanyin.jpg)              |   58 THB  |
+
