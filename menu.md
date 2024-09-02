@@ -1,7 +1,16 @@
 ## Menu
+[Japanese Food](#japanese-food) | [Seafood Menu](#seafood-menu) | [Thai Food](#thai-food) | [Beverages](#beverages)
 
-[Seafood Menu](#seafood-menu) | ... | [Beverages](#beverages)
-[Thai Food](#thai-food) | ... | [Beverages](#beverages)
+## Japanese Food
+
+| Name         | Description                 |                                        |   Price |
+|:-------------|:----------------------------|----------------------------------------|--------:|
+| Miso Soup    | Savoury soup with tofu and seaweed.| ![miso-soup](images/miso-soup.png)     |  40 THB |
+| Okonomiyaki  | Grilled savoury pancake with mix-ins| ![okonomiyaki](images/okonomiyaki.png) |  70 THB  |
+ | Curry Rice   | Mildly sweet curry over rice.| ![curry-rice](images/curry-rice.png)   |  80 THB  |
+| Takoyaki     |Octopus-filled savoury balls. | ![takoyoki](images/takoyaki.png)       |  50 THB  |
+| Sushi | Vinegared rice with tasty toppings.| ![sushi](images/sushi.png)             | 140 THB  |
+
 
 ## Seafood Menu
 
@@ -27,9 +36,9 @@
 
 ## Beverages
 
-
-| Name | Description     |                             |  Price |
-|:-----|:----------------|-----------------------------|-------:|
-| Coke               | Coca-cola Brand | ![Coke](images/sf_bev1.png) | 25 THB |        |
+| Name        | Description                                   |                                |   Price |
+|:------------|:----------------------------------------------|--------------------------------|--------:|
+| Amazake     | Japanese beverage made from rice and rice koji| ![amazake](images/amazake.png) |  40 THB  |
+| Coke               | Coca-cola Brand | ![Coke](images/sf_bev1.png) | 25 THB |        
 | Thai Tea | Sweetened iced tea | ![Thai Tea](images/Thai-Tea.jpeg) | 55 THB |
 
