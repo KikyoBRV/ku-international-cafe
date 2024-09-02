@@ -1,4 +1,4 @@
-# Name of Your Cafe
+# KU-International-Cafe
 
 Write a one or two sentence description of your cafe.
 
@@ -6,6 +6,6 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Junk Food](menu.md#junk-food)        | Bill Gates         |
+| [Chinese Food](menu.md#Chinese-Food)      | Sittanat      |
 
 
