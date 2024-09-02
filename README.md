@@ -4,8 +4,9 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine                        | Contributor |
-|:-------------------------------|-------------|
+| Cuisine                          | Contributor         |
+|:---------------------------------|---------------------|
+| [Sea Food](menu.md#seafood-menu) | Chayakarn Hengsuwan |
 | [Thai Food](menu.md#thai-food) | Atikarn     |
 
 
