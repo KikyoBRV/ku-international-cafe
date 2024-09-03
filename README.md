@@ -1,6 +1,6 @@
 # KU-International-Cafe
 
-Write a one or two sentence description of your cafe.
+Join us at Talok Cafe, where culinary traditions from China, Thailand, Japan, and the sea converge to create an unforgettable international dining experience that tantalizes your taste buds and transports you around the world with every bite!
 
 ## [Menu](menu.md)
 
